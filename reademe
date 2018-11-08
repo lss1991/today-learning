@@ -2,8 +2,9 @@
 初略的看了一下resnet的网络结构，
 
 需要学习的：
+回去首先大概回顾和总结一下multi_multi_task_eye，已经看过一遍没有总结
 keras 调用vgg19,resnet,densenet,inception都是如何使用的，就vgg19不需要输入input_shape???
-multi_multi_task_eye已经快要看完了，晚上回去首要看这个
+
 1 今天下载了resnet tensorflow实现的工程，可以看一下代码
 2 猫狗大战纯tensorflow实现的还是要自己跟着写一遍
 3 tensorflow和keras混合使用的情况再看一下
