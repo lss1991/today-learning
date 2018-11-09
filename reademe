@@ -4,9 +4,6 @@
 
 需要学习的：
 回去首先大概回顾和总结一下multi_multi_task_eye，已经看过一遍没有总结
-其次总结一下，return 10 if x>10 else -10这种语法
-总结下，a = [1,2,3],b=[4,5,6,7]
-for index，val in enumerate([a,b])时返回的是0，[1,2,3] 和1，[4,5,6,7]
 
 keras 调用vgg19,resnet,densenet,inception都是如何使用的，就vgg19不需要输入input_shape???
 
