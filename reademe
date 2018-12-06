@@ -5,6 +5,7 @@
 需要学习的：
 勇哥分享的一个深度学习的连接https://github.com/sladesha/tensorflow_practice可以看下
 郭在研究bert
+https://zhuanlan.zhihu.com/p/46652512
 
 卷积神经网络中 卷积核大小应该随着深度变换如何做变化？？？
 keras 调用vgg19,resnet,densenet,inception都是如何使用的，就vgg19不需要输入input_shape???
